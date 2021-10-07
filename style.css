@@ -1,0 +1,21 @@
+.nn img{
+    width: 100%;
+
+}
+.m{
+    padding: 10px;
+    margin: 10px;
+}
+.d{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.min{
+    padding-top: 12px;
+    margin: 2px;
+}
+.footer{
+padding: 30px;
+margin: 20px;
+}
