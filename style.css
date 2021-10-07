@@ -1,0 +1,48 @@
+/* .m{ 
+   
+}
+   
+
+ .parent{
+    padding: 2ch;
+     margin: 5ch;
+     border-style:double ;
+      
+     
+      
+ }
+.parent02{
+      border-style:double ;
+      color: royalblue;
+    text-align: center;
+    margin: 6ch;
+    display: grid;
+    grid-template-columns: repeat(3 ,3fr);
+
+    gap: 2;
+}
+
+.chiled01 {
+    padding: 2ch;
+    border-style:ridge;
+    text-align: center;
+ 
+}
+ 
+
+.head{ 
+    text-align: center;
+    font-style: italic;
+    size: 13px;
+     font-weight: bold;
+     color: red;
+}
+
+.cont{
+
+    text-align: center;
+    font-style:normal;
+    size: 10px;
+    font-weight:lighter;
+    color: rgb(50, 95, 190); 
+} */
