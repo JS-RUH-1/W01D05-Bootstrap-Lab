@@ -1,0 +1,10 @@
+.breadcrumb {
+    margin-top: 20px;
+    background-color: rgb(233, 233, 233);
+    padding: 10px;
+    border-radius: 5px;
+}
+.pages {
+    margin-top: 30px;
+    text-align: center;
+}
