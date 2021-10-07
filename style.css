@@ -1,0 +1,19 @@
+.breadcrumb-item >a{
+    text-decoration: none;
+}
+#cars-list{
+    display: flex;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 1;
+    justify-content: space-between;
+}
+#crumbs-and-cars{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.pagination{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    justify-content: center;
+}
